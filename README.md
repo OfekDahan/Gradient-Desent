@@ -1,4 +1,3 @@
-# Gradient-Desent-
 # Gradient Descent Implementation in Python
 
 This repository contains a Python implementation of various gradient descent algorithms for linear regression. The primary goal is to demonstrate the difference between standard Gradient Descent, Stochastic Gradient Descent, and Mini-Batch Gradient Descent with varying learning rates.
